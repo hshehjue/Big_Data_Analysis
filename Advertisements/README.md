@@ -1,6 +1,6 @@
 # Big Data Project
 
-*Authors: 
+**Authors:** 
 Seungheon Han, Joy Yin
 
 ## Executive Summary
