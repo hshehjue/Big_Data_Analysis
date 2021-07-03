@@ -13,7 +13,7 @@ Seungheon Han, Joy Yin
    - Related information can be found [here](https://dnsc6290-working-with-large-datasets.netlify.app/project.html).
 
 ### Schema
-
+<img src=https://github.com/hshehjue/Big_Data_Management/blob/main/images/schema width=80% height=80%>
 ### Attributes
 
 ## **Methods**
