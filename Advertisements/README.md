@@ -15,8 +15,15 @@ Seungheon Han, Joy Yin
 ### Schema
 <img src=https://github.com/hshehjue/Big_Data_Management/blob/main/Advertisements/images/schema.png width=60% height=60%>
 
-### Attributes
-
+### Used Datasets
+   * ad_info
+   
+   * location
+   
+   * search_click
+   
+   * search_info
+    
 ## **Methods**
 
 ### Ingestion
