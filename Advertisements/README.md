@@ -6,11 +6,17 @@ Seungheon Han, Joy Yin
 ## Executive Summary
    By divising a series of hypotheses, our workgroup began data exploration of a "big data" stream that included information about users who had clicked on web advertisements. We explored areas such as what variable is most correlated with whether a user clicked on an advertisement, distributions of variables, and frequency analysis. Our process required utilizing Apache Spark to process the volume of data with Cloud resources. With SparkSQL, we employed a series of joins to merge several dataframes using a common ID. Our analysis shows that Cloud solutions (i.e. parallel processing) can be effectively leveraged to conduct data exploration and analyisis of several related "big" datasets to develop conclusions.
    
-## Methods
 
+## **Data**
 ### Data Sourcing
    - Prof. Vaisman’s Azure Blob Storage (dbfs:/mnt/course-datasets/project-data).
    - Related information can be found [here](https://dnsc6290-working-with-large-datasets.netlify.app/project.html).
+
+### Schema
+
+### Attributes
+
+## **Methods**
 
 ### Ingestion
    * Spark.read() command to acquire data from source location to intilialize cloud resources and parallel processing.
@@ -21,7 +27,7 @@ Seungheon Han, Joy Yin
      - Adding an index column.
    * Change the name of a column to differentiate it from the column with the same name on another table.
      - AdID (ad_info)
-   
+
 ### Preparation
    * Employed SparkSQL to join dataframes on a common ID.
    * Converting some computation-required string values to integer or float data type.
