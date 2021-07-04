@@ -16,7 +16,7 @@ Seungheon Han, Joy Yin
 <img src=https://github.com/hshehjue/Big_Data_Management/blob/main/Advertisements/images/schema.png width=60% height=60%>
 
 ### Used Data
-   * **ad_info**
+   * **ad_info (Rows: 5,350,670,676)** 
      - *AdID*: Identity of an ad.
      - *LocatioinID*: Ad's geo-targeting (references location for regular ads). Null for contextual ads.
      - *CategoryID*: Ad's category according to the classification model (references category).
@@ -24,13 +24,13 @@ Seungheon Han, Joy Yin
      - *Price*: Price for an ad.
      - *Title*: Row title text. 
        
-   * **location**
+   * **location (Rows: 58,976)**
      - *LocationID*: Identifier of the location.
      - *Level*: Level of search/impression (3 = city, 2 = region, 1 = country).
      - *RegionID*: Identifier of the search/impression region.
      - *CityID*: Identifier of the search/impression city.
      
-   * **search_click**
+   * **search_click (Rows: 11,023,566,785)**
      - *SearchID*: Identifier for a visitors' search event.
      - *AdID*: Identifier for an ad (see also ad description in ad_info).
      - *Position*: Position of the ad in search result page (1 - is first ad on a page starting from the top). only ads on position 1,2,6,7, and 8 are logged. 
@@ -38,7 +38,7 @@ Seungheon Han, Joy Yin
      - *HistCTR*: Some naive history-based estimation of the click-through-rate for contextual ads, calculated when the ad is shown. non-contextual ads = Null  
      - *IsClick*: 1 if there was a click on this ad. Otherwise 0. For non-contextual ads, this field equals null. 
    
-   * **search_info**
+   * **search_info (Rows: 9,469,373,867)**
      - *SearchID*: Identifier of search event.
      - *SearchDate*: Date and time of the search event.
      - *UserID*: Anonymized identifier of visitors cookies.
