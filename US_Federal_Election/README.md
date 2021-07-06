@@ -55,4 +55,4 @@
        7. run our final dataset into csv file and upload into our bucker so we can acess wget from the bucket.
   
   * **Schema**
-  
+  <img src= width=100% height=100%>
