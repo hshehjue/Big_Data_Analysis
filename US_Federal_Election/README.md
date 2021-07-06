@@ -1,4 +1,4 @@
-# US Federal Election Data Analysis
+# Analysis of US Federal Election Data
 
 ## Project Summary
    * **Authors**
