@@ -12,7 +12,7 @@
    * **Objective**
      - Final Project of the DNSC6212 - Data Management for Analytics
    * **Description**
-     - By exploring every bulk data ranging from 2016 to 2020 provided by FEC website, find proper answers to the questions discussed in an interview with a sponsor ([Dr. Ali Obaidi](https://www.coursicle.com/gwu/professors/Ali+Obaidi/)).
+     - By exploring the given five bulk data sets corresponding to 2016 and 2020 provided by FEC website, find proper answers to the questions discussed in an interview with a sponsor ([Dr. Ali Obaidi](https://www.coursicle.com/gwu/professors/Ali+Obaidi/)).
      - **Questions:**
        - 1. Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election? 
        - 2. Compared with the Contribution Received from Party Committees and other Political Committees for Candidates and their Party, what can you conclude?
@@ -24,6 +24,13 @@
    * **Source**
      - [Federal Election Commision(FEC) Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
    
+   * **Used Datasets**
+     - *All candidates*
+     - *Candidate master*
+     - *Candidate-committee linkages*
+     - *Committee master*
+     - *Contributions by individuals*
+     
    * **Data Wrangling**
      - **Tools:** *Trifacta*
      - **Recipe**
@@ -46,4 +53,6 @@
           - some value is missing because mismatch prime key, so delete some useful value, so we decide to add on this useful information.
 
        7. run our final dataset into csv file and upload into our bucker so we can acess wget from the bucket.
-   * **Schema**
+  
+  * **Schema**
+  
