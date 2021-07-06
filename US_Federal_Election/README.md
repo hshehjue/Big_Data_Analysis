@@ -55,4 +55,4 @@
        7. run our final dataset into csv file and upload into our bucker so we can acess wget from the bucket.
   
   * **Schema**
-  <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/schema.png width=60% height=60%>
+  <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/schema.png width=90% height=90%>
