@@ -11,6 +11,8 @@
      - Master of Science in Business Analytics at The George Washington University
    * **Objective**
      - Final Project of the DNSC6212 - Data Management for Analytics
+   * **Duration**
+     - 3 weeks
    * **Description**
      - By exploring the given five bulk data sets corresponding to 2016 and 2020 provided by FEC website, find proper answers to the questions discussed in an interview with a sponsor ([Dr. Ali Obaidi](https://www.coursicle.com/gwu/professors/Ali+Obaidi/)).
      - **Questions:**
