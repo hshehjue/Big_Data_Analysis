@@ -1,11 +1,12 @@
 # Big Data Project
 
-**Authors:** 
-Seungheon Han, Joy Yin
-
 ## Executive Summary
    By divising a series of hypotheses, our workgroup began data exploration of a "big data" stream that included information about users who had clicked on web advertisements. We explored areas such as what variable is most correlated with whether a user clicked on an advertisement, distributions of variables, and frequency analysis. Our process required utilizing Apache Spark to process the volume of data with Cloud resources. With SparkSQL, we employed a series of joins to merge several dataframes using a common ID. Our analysis shows that Cloud solutions (i.e. parallel processing) can be effectively leveraged to conduct data exploration and analyisis of several related "big" datasets to develop conclusions.
-   
+
+**Participants:** 
+Seungheon Han, Joy Yin
+**Duration**
+1 week
 
 ## **Data**
 ### Data Sourcing
