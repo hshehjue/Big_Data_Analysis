@@ -14,11 +14,11 @@
    * **Description**
      - By exploring the given five bulk data sets corresponding to 2016 and 2020 provided by FEC website, find proper answers to the questions discussed in an interview with a sponsor ([Dr. Ali Obaidi](https://www.coursicle.com/gwu/professors/Ali+Obaidi/)).
      - **Questions:**
-       - 1. Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election? 
-       - 2. Compared with the Contribution Received from Party Committees and other Political Committees for Candidates and their Party, what can you conclude?
+       - 1 Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election? 
+       - 2 Compared with the Contribution Received from Party Committees and other Political Committees for Candidates and their Party, what can you conclude?
          - Sub-question: What’s the differences between the committee’s and individual contribution for candidates and their party?
-       - 3. What is the total liabilities that candidates hold in 2020? How does it differ to 2016?
-       - 4. What are the 10 seats that received the most contributions both for the Senate and the House of Representatives?
+       - 3 What is the total liabilities that candidates hold in 2020? How does it differ to 2016?
+       - 4 What are the 10 seats that received the most contributions both for the Senate and the House of Representatives?
    * **Software/Languages**
      - **Enviornment**
        - Ubuntu
