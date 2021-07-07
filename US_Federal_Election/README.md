@@ -72,7 +72,7 @@
   <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/schema.png width=90% height=90%>
   
   * **Results**
-    - 1. Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election? 
+    - **1. Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election?** 
       - The total amount of transactions (the sum of absolute values) occurring between committees and candidates affiliated to either democratic or republican party by states in 2020
       - The 2020 electoral college forecast map published by CNN
         <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q1_1.png width=80% height=80%>
@@ -80,11 +80,19 @@
         <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q1_2.png width=80% height=80%>
       - Predicted Map Vs Resulting Map 
         <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q1_3.png width=80% height=80%>
-   
-    - 2. Compared with the Contribution Received from Party Committees and other Political Committees for Candidates and their Party, what can you conclude?
+----   
+    - **2. Compared with the Contribution Received from Party Committees and other Political Committees for Candidates and their Party, what can you conclude?**
       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q2-1.png width=80% height=80%>
       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q2-2.png width=80% height=80%>
+      
+      - Sub: What’s the differences between the committee’s and individual contribution for candidates and their party?
+        <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/sub2-1.png width=80% height=80%>
+        <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/sub2-2.png width=80% height=80%>
 
+
+
+----
+    
   
 
         
