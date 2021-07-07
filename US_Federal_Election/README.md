@@ -19,20 +19,34 @@
          - Sub-question: What’s the differences between the committee’s and individual contribution for candidates and their party?
        - 3. What is the total liabilities that candidates hold in 2020? How does it differ to 2016?
        - 4. What are the 10 seats that received the most contributions both for the Senate and the House of Representatives?
-
+   * **Software/Languages**
+     - **Enviornment**
+       - Ubuntu
+       - Amazon Web Service(AWS)
+         - EC2
+         - S3
+     - **Data Wrangling & Analysis**
+       - Trifacta
+       - PySpark
+       - Unix Command
+       - CSVcut
+       - PostgreSQL
+       - sparkSQL
+     - **Visualizing**
+       - Tableau
 ## Data 
    * **Source**
      - [Federal Election Commision(FEC) Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
    
    * **Used Datasets**
-     - *All candidates*
-     - *Candidate master*
-     - *Candidate-committee linkages*
-     - *Committee master*
-     - *Contributions by individuals*
+     - *All candidates (2016, 2020)*
+     - *Candidate master (2016, 2020)*
+     - *Candidate-committee linkages (2016, 2020)*
+     - *Committee master (2016, 2020)*
+     - *Contributions by individuals (2016, 2020)*
      
    * **Data Wrangling**
-     - **Tools:** *Trifacta*
+     - **Tools:** *Trifacta* 
      - **Recipe**
        1. Rename the columns.
           - Note that we need to add header on before we do our project.
@@ -56,3 +70,8 @@
   
   * **Schema**
   <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/schema.png width=90% height=90%>
+  
+  * **Results**
+    - 1. Did transaction amount influence the final results of the ballots in the swing states in the 2020 presidential election? 
+    - 
+
