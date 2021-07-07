@@ -108,6 +108,4 @@ Seungheon Han, Joy Yin
 
 
 ## Code Files
-* [Data Preprocessing](https://github.com/gwu-bigdata/summer2021-project-weike-joy-zach-seungheon-group/blob/main/FinalProject_preprocessing.dbc)
-* [Intermediate Dataset](https://github.com/gwu-bigdata/summer2021-project-weike-joy-zach-seungheon-group/blob/main/FinalProject_answering.dbc)
-* [Final Product - Merged Files](https://github.com/gwu-bigdata/summer2021-project-weike-joy-zach-seungheon-group/blob/main/FinalProject_combined.dbc)
+* [Final Product](https://github.com/hshehjue/Big_Data_Analysis/blob/main/Advertisements/BigData_Advertisement.ipynb)
