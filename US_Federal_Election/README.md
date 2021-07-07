@@ -85,15 +85,22 @@
      <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q2-1.png width=80% height=80%>
      <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q2-2.png width=80% height=80%>
       
-     - Sub: What’s the differences between the committee’s and individual contribution for candidates and their party?
+     - **Sub: What’s the differences between the committee’s and individual contribution for candidates and their party?**
        <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/sub2-1.png width=80% height=80%>
        <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/sub2-2.png width=80% height=80%>
-
-
-
 ----
-    
-  
+   * **3. What is the total liabilities that candidates hold in 2020? How does it differ to 2016?**
+     - Total liabilities in 2016
+       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q3-2.png width=80% height=80%>
+     - Total liabilities in 2020
+       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q3-1.png width=80% height=80%>
+----
+   * **4. What are the 10 seats that received the most contributions both for the Senate and the House of Representatives?**
+     - Comparison of republican vs. Democrat contributions to the top10 house seats
+       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q4-1.png width=80% height=80%>
 
-        
+     - Comparison of republican vs. Democrat contributions to the top10 senate seats
+       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q4-2.png width=80% height=80%>
+     - the most contributing parties & supporting parties by states
+       <img src=https://github.com/hshehjue/Big_Data_Analysis/blob/main/US_Federal_Election/images/q4-3.png width=80% height=80%>  
 
