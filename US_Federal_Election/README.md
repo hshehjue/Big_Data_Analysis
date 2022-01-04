@@ -1,7 +1,7 @@
 # Analysis of US Federal Election Data
 
 ## Project Summary
-   * **Participants**
+   * **Contributors**
      - Seungheon Han
      - Weike Zhou
      - Youssef Ragab
