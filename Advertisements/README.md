@@ -80,7 +80,7 @@ Seungheon Han, Joy Yin
 2. Do the click records have certain relationships with the ad prices?
    - *(hypothesis 1)* the advertisements more clicked by users are more expensive. 
    - *(hypothesis 2)* the higher historical click-through-rate the ads have, the more expensive their prices.
-3. What are the most Searched Ids and what are the locations of them?.=
+3. What are the most Searched Ids and what are the locations of them?
 
 
 ### Visualizations
