@@ -41,11 +41,11 @@
      - [Federal Election Commision(FEC) Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
    
    * **Used Datasets**
-     - *All candidates (2016, 2020)*
-     - *Candidate master (2016, 2020)*
-     - *Candidate-committee linkages (2016, 2020)*
-     - *Committee master (2016, 2020)*
-     - *Contributions by individuals (2016, 2020)*
+     - *All candidates (2016, 2020)* - 873Kb
+     - *Candidate master (2016, 2020)* - 2.2Mb
+     - *Candidate-committee linkages (2016, 2020)* - 557Kb
+     - *Committee master (2016, 2020)* - 4.4Mb
+     - *Contributions by individuals (2016, 2020)* - 22.45Gb
      
    * **Data Wrangling**
      - **Tools:** *Trifacta* 
